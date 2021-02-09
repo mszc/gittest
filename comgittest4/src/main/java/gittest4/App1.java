@@ -7,5 +7,7 @@ public class App1 {
         Date date = new Date();
         System.out.println(date);
         System.out.println("爱的");
+        System.out.println("第四");
+
     }
 }
