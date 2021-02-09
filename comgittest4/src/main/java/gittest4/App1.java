@@ -9,5 +9,6 @@ public class App1 {
         System.out.println("爱的");
         System.out.println("爱的");
         System.out.println("第五次");
+        System.out.println("第六次");
     }
 }
